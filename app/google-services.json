@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617798889524",
+    "firebase_url": "https://online-school-1d680.firebaseio.com",
+    "project_id": "online-school-1d680",
+    "storage_bucket": "online-school-1d680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617798889524:android:534bc4824f9a9daff89a61",
+        "android_client_info": {
+          "package_name": "com.tolulope.onlineschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617798889524-0u79aolvaeuj3robisc9ikirlseecapo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tolulope.onlineschool",
+            "certificate_hash": "0c51b952f615dcc5c45f14db5e3bb1ca07b79899"
+          }
+        },
+        {
+          "client_id": "617798889524-sa1d8iubqd0aeogmkoh11kt2b4c9858n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYilljZNB-qOJCAoBhEYY8b0utW2Uw1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617798889524-sa1d8iubqd0aeogmkoh11kt2b4c9858n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
